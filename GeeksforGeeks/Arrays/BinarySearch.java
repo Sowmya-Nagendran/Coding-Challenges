@@ -1,3 +1,5 @@
+// Binary Search --> Basic Problem
+
 class Solution {
     // Method to perform binary search on a sorted array
     int binarysearch(int arr[], int n, int k) {

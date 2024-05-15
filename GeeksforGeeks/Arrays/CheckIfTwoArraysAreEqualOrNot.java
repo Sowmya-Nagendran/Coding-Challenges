@@ -1,3 +1,5 @@
+// Check if two arrays are equal or not ---> Basic problem 
+
 import java.util.Arrays;
 
 class Solution {

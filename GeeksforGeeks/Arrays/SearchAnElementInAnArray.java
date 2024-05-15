@@ -1,3 +1,5 @@
+// Search an element in an array ---> Basic problem
+
 class Solution {
 
     // Function to search for an element X in an array arr[] of size N.

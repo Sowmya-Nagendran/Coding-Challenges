@@ -5,7 +5,7 @@ class Solution {
     int binarysearch(int arr[], int n, int k) {
         int start = 0;       // Initialize start index
         int end = n - 1;     // Initialize end index
-        
+    
         // Loop until the start index is less than or equal to the end index
         while (start <= end) {
             // Calculate the mid index to avoid overflow
